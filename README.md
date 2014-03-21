@@ -20,9 +20,13 @@ a.	If the player's total is less than 17, they "hit" (i.e. get dealt another car
 b.	If the player's total is 17 or greater, they "stick" (i.e. don't get dealt another card).
 c.	If the player's total is greater than 21, they "go bust" (i.e. are ejected from the game).
 3.	The game finishes if:
+
 a.	All players "stick" in a round.
+
 b.	Any player hits 21 exactly.
+
 c.	There is only one player is left in the game because all others have "gone bust".
+
 4.	At the end of the game, if the game has not finished due to a player hitting 21, the player with the total closest (but still under) 21 wins.
 
 
